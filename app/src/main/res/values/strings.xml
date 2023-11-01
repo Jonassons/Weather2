@@ -1,0 +1,18 @@
+<resources>
+    <!-- App Name -->
+    <string name="weather">Weather App</string>
+
+    <!-- Text for MainActivity -->
+    <string name="temperature_in_lund">Temperature in Lund: </string>
+    <string name="check_weather_stockholm">Check weather in Stockholm</string>
+
+    <!-- Text for StockholmFragment -->
+    <string name="temperature_in_stockholm">Temperature in Stockholm: </string>
+
+    <string name="temperature_in_paris">Temperature in Paris: </string>
+
+    <string name="temperature_in_copenhagen">Temperature in Copenhagen:</string>
+
+
+
+</resources>
